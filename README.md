@@ -28,7 +28,7 @@ Here are some of the certifications I've earned:
 
 Feel free to reach out if you'd like to collaborate or learn more about my work!
 
-- 🌐 **Website**: [Jimuel Eligio Portfolio](#)
+- 🌐 **Website**: [Jimuel Eligio Portfolio](https://jsleligio.github.io/portfolio/)
 - 💼 **LinkedIn**: [Jimuel Simoun Eligio](https://www.linkedin.com/in/jimsleligio/)
 - 📄 **Resume**: [Download CV](https://drive.google.com/file/d/1X6O3U12umvU8FOiaEoOoEb_caf0J0b-l/view?usp=drive_link)
 
