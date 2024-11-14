@@ -1,6 +1,6 @@
 # 👨‍💻 Jim Eligio - Cloud Engineer
 
-Welcome to my GitHub profile! I'm a Cloud Engineer with a strong focus on **Azure** and **DevOps**, passionate about cloud automation and CI/CD pipelines. 🌐 I have 5 Microsoft Azure certifications and a solid grasp of cloud technologies. 🚀
+Welcome to my GitHub profile! I'm a Cloud Engineer with a strong focus on **Azure** and **DevOps**, passionate about cloud automation and CI/CD pipelines. 🌐 I have 6 Microsoft Azure certifications and a solid grasp of cloud technologies. 🚀
 
 ## 🏠 Home
 
@@ -16,6 +16,7 @@ Welcome to my GitHub profile! I'm a Cloud Engineer with a strong focus on **Azur
 ## 🎓 Certifications
 
 Here are some of the certifications I've earned:
+- **AZ-400: DevOps Engineer Expert** 🚀
 - **AZ-305: Azure Solutions Architect Expert** 🌐
 - **AZ-104: Azure Administrator Associate** 💼
 - **AZ-900: Azure Fundamentals** 📘
